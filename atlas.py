@@ -35,7 +35,7 @@ PALETTES = {
         "sec": "#857e71",
         "hid": "#9d9585",
         "faint": "#c6bda9",
-        "text": "#655e52",
+        "text": "#222526",
         "accent": "#a8452c",
         "tint": "#3a342b",
         "tint_a": 0.06,
